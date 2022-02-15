@@ -12,7 +12,6 @@
 
 Created by Jerimiah
 https://github.com/JerimiahOfficial/
-https://github.com/JerimiahOfficial/Rule34-Downloader
 */
 
 #include "Util.h"
